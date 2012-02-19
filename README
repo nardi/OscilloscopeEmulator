@@ -1,0 +1,2 @@
+Acts like a basic X-Y oscilloscope. Uses your default audio recording device as input (44100kHz/16bit/stereo). Requires .NET 4.0 and XNA 4.0.
+Syntax: OscilloscopeEmulator.exe black/white width height
